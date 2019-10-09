@@ -4,4 +4,4 @@
 ### /src
 * **hello_world.py:** A simple "Hello World" process
 
-* **FTP_KeepAlive.py:** A KeepAlive process I use to keep my powerline ethernet adapaters awake by pushing a local file to an FTP server and pulling it back down
+* **FTP_KeepAlive.py:** A KeepAlive process I use to keep my powerline ethernet adapters awake by pushing a local file to an FTP server and pulling it back down
